@@ -17,6 +17,7 @@ print("")
 # Note that this URL should already be URL-encoded
 url = urlparse.urlparse("http://maps.googleapis.com/maps/api/geocode/json?address=Wrigley+Field&sensor=false&client=gme-allianz")
 
+#privateKey = "gViycVTY0NHmn7akQbCUXWh_Vg4="
 privateKey = "gViycVTY0NHmn7akQbCUXWh_Vg4="
 
 # We only need to sign the path+query part of the string

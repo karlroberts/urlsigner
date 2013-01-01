@@ -1,7 +1,8 @@
-package au.com.allianz.common;
+package com.owtelse.util;
 
 import java.net.URL;
 
+import com.owtelse.util.UrlSigner;
 import org.junit.After;
 import org.junit.Before;
 import org.junit.Test;
