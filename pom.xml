@@ -31,7 +31,7 @@
 
     <scm>
         <url>https://github.com/karlroberts/urlsigner</url>
-        <connection>scm:git:https://github.com/karlroberts/urlsigner</connection>
+        <connection>scm:git:git://github.com/karlroberts/urlsigner.git</connection>
         <developerConnection>scm:git:git@github.com:karlroberts/urlsigner.git</developerConnection>
         <tag>HEAD</tag>
     </scm>
